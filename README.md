@@ -1,5 +1,10 @@
-
 # MARKET RESEARCH FOR CLOTHING STORE
+
+![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Clothing-Store-Market-Research)
+![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Clothing-Store-Market-Research)
+![Github Repo License](https://img.shields.io/github/license/Onnamission/Clothing-Store-Market-Research)
+![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Clothing-Store-Market-Research/total)
+![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
 This project is based on market research analytics that was carried out on the clothes retailer - Lets Shop. For the benefit of the project, this clothes store is fictitious and only exists to showcase the work. This gym is a tiny company located in Mumbai, Maharashtra, India, with a customer base that is mostly composed of people between the ages of 10 to 40 years.
 
@@ -88,5 +93,3 @@ Swot analysis helps to identify the current position of the company and what cha
 ## 4. Porter's Five Force Analysis
 
 ![porter's five force analysis](Images/five_force_analysis.png)
-
-
