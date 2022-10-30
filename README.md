@@ -6,6 +6,8 @@
 ![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Clothing-Store-Market-Research/total)
 ![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
+![market research clothing wallpaper](Images/wallpaper.png)
+
 This project is based on market research analytics that was carried out on the clothes retailer - Lets Shop. For the benefit of the project, this clothes store is fictitious and only exists to showcase the work. This gym is a tiny company located in Mumbai, Maharashtra, India, with a customer base that is mostly composed of people between the ages of 10 to 40 years.
 
 On the basis of the interest in clothes and fashion brands among individuals all throughout India, a thorough analysis has been given about how the interest has evolved.
