@@ -1,4 +1,4 @@
-# MARKET RESEARCH FOR CLOTHING STORE
+# CLOTHING STORE MARKET RESEARCH
 
 ![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Clothing-Store-Market-Research)
 ![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Clothing-Store-Market-Research)
